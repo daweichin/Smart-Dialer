@@ -1,0 +1,8 @@
+LoginSystem.dialog_SignUp, LoginSystem;md5c65fa0486ebee89dbb6f0bf37323cf0f.dialog_SignUp
+LoginSystem.dialog_SignUp, LoginSystem, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5c65fa0486ebee89dbb6f0bf37323cf0f.dialog_SignUp
+LoginSystem.dialog_SignUp;md5c65fa0486ebee89dbb6f0bf37323cf0f.dialog_SignUp
+loginsystem.dialog_SignUp;md5c65fa0486ebee89dbb6f0bf37323cf0f.dialog_SignUp
+LoginSystem.MainActivity, LoginSystem;md5c65fa0486ebee89dbb6f0bf37323cf0f.MainActivity
+LoginSystem.MainActivity, LoginSystem, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5c65fa0486ebee89dbb6f0bf37323cf0f.MainActivity
+LoginSystem.MainActivity;md5c65fa0486ebee89dbb6f0bf37323cf0f.MainActivity
+loginsystem.MainActivity;md5c65fa0486ebee89dbb6f0bf37323cf0f.MainActivity

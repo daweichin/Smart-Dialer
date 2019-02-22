@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars>C:\Users\Domainance\Desktop\LocalDev\Smartdialer\LoginSystem\obj\Debug\__library_projects__\Xamarin.Android.Support.Annotations\library_project_imports\support-annotations.jar;C:\Users\Domainance\Desktop\LocalDev\Smartdialer\LoginSystem\obj\Debug\__library_projects__\Xamarin.Android.Support.Compat\library_project_imports\bin\classes.jar;C:\Users\Domainance\Desktop\LocalDev\Smartdialer\LoginSystem\obj\Debug\__library_projects__\Xamarin.Android.Support.Core.UI\library_project_imports\bin\classes.jar;C:\Users\Domainance\Desktop\LocalDev\Smartdialer\LoginSystem\obj\Debug\__library_projects__\Xamarin.Android.Support.Core.Utils\library_project_imports\bin\classes.jar;C:\Users\Domainance\Desktop\LocalDev\Smartdialer\LoginSystem\obj\Debug\__library_projects__\Xamarin.Android.Support.Fragment\library_project_imports\bin\classes.jar;C:\Users\Domainance\Desktop\LocalDev\Smartdialer\LoginSystem\obj\Debug\__library_projects__\Xamarin.Android.Support.Media.Compat\library_project_imports\bin\classes.jar</Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>C:\Users\Domainance\Desktop\LocalDev\Smartdialer\LoginSystem\obj\Debug\__library_projects__\Xamarin.Android.Support.Compat\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Domainance\Desktop\LocalDev\Smartdialer\LoginSystem\obj\Debug\__library_projects__\Xamarin.Android.Support.Media.Compat\library_project_imports\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories />
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>C:\Users\Domainance\Desktop\LocalDev\Smartdialer\LoginSystem\obj\Debug\__library_projects__\Xamarin.Android.Support.Compat.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Domainance\Desktop\LocalDev\Smartdialer\LoginSystem\obj\Debug\__library_projects__\Xamarin.Android.Support.Media.Compat.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>

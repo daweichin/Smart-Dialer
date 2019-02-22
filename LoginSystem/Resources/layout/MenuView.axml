@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:columnCount="2"
+    android:rowCount="2"
+    android:background="#FFFFFF">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_rowWeight="1"
+        android:layout_columnWeight="1"
+        android:layout_gravity="center">
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnCamera"
+            android:src="@drawable/camera_icon"
+            android:layout_gravity="center"
+            android:background="@android:color/background_light" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Camera"
+            android:textSize="20sp"
+            android:textColor="#000000"
+            android:layout_gravity="center"
+            android:id="@+id/textView1" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_rowWeight="1"
+        android:layout_columnWeight="1"
+        android:gravity="center">
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnPhotoList"
+            android:src="@drawable/list_icon"
+            android:layout_gravity="center"
+            android:background="@android:color/background_light" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Photo List"
+            android:textSize="20sp"
+            android:textColor="#000000"
+            android:layout_gravity="center"
+            android:id="@+id/textView1" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_rowWeight="1"
+        android:layout_columnWeight="1"
+        android:gravity="center">
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnMaps"
+            android:src="@drawable/folder_icon"
+            android:layout_gravity="center"
+            android:background="@android:color/background_light" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Folder"
+            android:textSize="20sp"
+            android:textColor="#000000"
+            android:layout_gravity="center"
+            android:id="@+id/textView1" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_rowWeight="1"
+        android:layout_columnWeight="1"
+        android:gravity="center">
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnSettings"
+            android:src="@drawable/settings_icon"
+            android:layout_gravity="center"
+            android:background="@android:color/background_light" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Settings"
+            android:textSize="20sp"
+            android:textColor="#000000"
+            android:layout_gravity="center"
+            android:id="@+id/textView1" />
+    </LinearLayout>
+</GridLayout>

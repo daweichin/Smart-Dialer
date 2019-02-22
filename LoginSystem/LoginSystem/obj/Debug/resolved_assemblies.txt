@@ -1,0 +1,9 @@
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\LoginSystem\LoginSystem\obj\Debug\assemblies\LoginSystem.dll
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\LoginSystem\LoginSystem\obj\Debug\assemblies\Mono.Android.dll
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\LoginSystem\LoginSystem\obj\Debug\assemblies\mscorlib.dll
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\LoginSystem\LoginSystem\obj\Debug\assemblies\System.Core.dll
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\LoginSystem\LoginSystem\obj\Debug\assemblies\System.dll
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\LoginSystem\LoginSystem\obj\Debug\assemblies\System.Xml.dll
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\LoginSystem\LoginSystem\obj\Debug\assemblies\System.Xml.Linq.dll
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\LoginSystem\LoginSystem\obj\Debug\assemblies\System.Runtime.Serialization.dll
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\LoginSystem\LoginSystem\obj\Debug\assemblies\System.ServiceModel.Internals.dll
